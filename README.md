@@ -1,8 +1,8 @@
 # Visualisation-de-donn-es
 
 Membres du groupe : 
-  - Akli Zeroual
-  - Isildo Zitha
+  - Akli Zeroual (NET)
+  - Isildo Zitha (NET)
 
 Projet : Visualisation des données linguistiques
 
