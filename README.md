@@ -1,3 +1,9 @@
 # Visualisation-de-donn-es
 
-Cours du 19/01/2026
+Membres du groupe : 
+  - Akli Zeroual
+  - Isildo Zitha
+
+Projet : Visualisation des données linguistiques
+
+Lien du site : https://isildoaklidataviz.lovable.app/
